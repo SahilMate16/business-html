@@ -8,14 +8,14 @@
 /* Body Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    color: #2b2b2b;
-    background: linear-gradient(to bottom, #ffeedd, #ffd1ba);
+    color:#004643;
+    background: linear-gradient(to bottom, #abd1c6, #004643);
     text-align: center;
 }
 
 /* Header Styles */
 .header {
-    background-color: #ff6f61; /* Vibrant coral */
+    background-color:#004643; /* Vibrant coral */
     color: white;
     padding: 50px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -69,7 +69,7 @@ body {
 
 .btn {
     display: inline-block;
-    background-color: #ffab91; /* Soft peach */
+    background-color:#1f1235; 
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -80,13 +80,13 @@ body {
 }
 
 .btn:hover {
-    background-color: #ff7043; /* Deep coral */
+    background-color: #ff7043; 
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
-/* Footer Styles */
+
 .footer {
-    background-color: #2b2b2b; /* Deep gray */
+    background-color: #2b2b2b;
     color: white;
     padding: 15px;
     margin-top: 20px;
